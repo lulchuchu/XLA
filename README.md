@@ -1,4 +1,4 @@
-# XLA
+# Nguyễn Tiến Anh - B20DCCN063
 # Những thuật toán đã thực hiện:
 ## Biến đổi âm bản
 ## Histogram equalization
